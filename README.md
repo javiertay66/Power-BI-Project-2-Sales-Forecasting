@@ -60,7 +60,6 @@ This Power BI dashboard analyzes Walmart sales data from 2010 to 2012, showcasin
 ## Project by
 **Javier Tay Yu Xiang**  
 [Year 2 Economics and Data Science Student, NTU]  
-[Aspiring Data Analyst]  
 (https://www.linkedin.com/in/javier-tay-a89a3b202/)
 
 ## Acknowledgments
